@@ -49,6 +49,8 @@ The data used for this analysis can be found on [Central Bank of Nigeria (CBN) S
 </tbody>
 </table>
 
+![](2022-11-06-20-23-52.png)
+
 ## Summary
 * Average price of crude oil increases as the year begins and decrease as the year comes to an end.
 * Crude oil price is has been inreasing since 2020, currently (2022) the minimum price per barrel is $88.71 compare to the maximum price of $66.68 in year 2020.
@@ -58,6 +60,8 @@ The data used for this analysis can be found on [Central Bank of Nigeria (CBN) S
 * Starting from 2016, the yearly average of crude oil exported has not pass the overall average of crude oil exported.
 * The percentage decrease of oil exported in each month of year 2022 compared to months in 2021 is currently above 14%, except for January where ther was 4% increase in exported crude oil.  
 * For this sample of data, there is a perfect linear relationship between production and crude oil exported.
+
+![](2022-11-06-20-24-49.png)
 
 ## Limitations
 * The Dataset consist of few records which starts from 2006 to 2022, this may affects our general view of oil production.
